@@ -1,0 +1,50 @@
+
+img {
+	width: 300px;
+	border-radius: 25px 25px 25px 0px;
+}
+
+h2{
+	color: #2d2d2d;
+	font-family: 'Playfair Display', serif;
+	font-weight: : bold;
+}
+
+.animal-card
+{
+	border: 1px none #000000;
+	border-radius: 25px 25px 25px 25px;
+	box-shadow: 7px 7px 65px -5px rgba(0,0,0,0.49);
+	width: 300px;
+	padding-top: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	background-color: #e8ceb2;
+}
+
+.fact
+{
+	font-style: italic;
+	color: #2d2d2d;
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+}
+
+.content_box
+{
+	border: 1px solid #fff;
+	border-radius: 0px 25px 25px 25px;
+	padding: 10px;
+	color: #2d2d2d;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 16px;
+}
+
+li {
+	list-style-type: none;
+	text-indent: -30px;
+}
+span {
+	font-weight: bold;
+}
